@@ -1,0 +1,55 @@
+header{
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 100%;
+}
+
+#logo{
+	float: left;
+}
+
+body{
+	background-image: url('pattern.jpg');
+	margin: 0;
+}
+
+section{
+	background-color: white;
+	margin: 5% 10% 0% 10%;
+	
+	padding: 10px;
+}
+
+section h1{
+	text-align: center;
+	padding: 10px;
+}
+
+article{
+	padding-top: 15px
+}
+
+
+ul{
+	float: right;
+}
+
+li{
+	float: left;
+}
+
+a li{
+	display: inline;
+	color: blue;
+	padding: 0px 10px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
